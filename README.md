@@ -1,2 +1,1 @@
-# itemTable_ID_Extractor
-Conan Exiles ItemTable.json ID Extractor
+Extract ID numbers from ItemTable.json
